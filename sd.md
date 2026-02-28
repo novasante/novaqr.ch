@@ -1,3 +1,3 @@
 ---
-redirect_to: "https://novasante.ch/sarah_dionne?source=qr"
+redirect_to: "https://novasante.ch/sarah-dionne?source=qr"
 ---
