@@ -1,3 +1,4 @@
 ---
-redirect_to: "https://novasante.ch/laura-carnello?source=qr"
+permalink: /LC/
+redirect_to: "https://novasante.ch/?source=qr#laura-carnello"
 ---

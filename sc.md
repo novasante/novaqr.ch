@@ -1,3 +1,4 @@
 ---
-redirect_to: "https://novasante.ch/serverine-corthay?source=qr"
+permalink: /SC/
+redirect_to: "https://novasante.ch/?source=qr#serverine-corthay"
 ---
