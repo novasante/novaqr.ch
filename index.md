@@ -1,3 +1,3 @@
 ---
-redirect_to: "https://novasante.ch?source=qr"
+redirect_to: "https://novasante.ch?utm_source=qr"
 ---
